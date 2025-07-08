@@ -41,12 +41,3 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
-
-
-
-footer{
-background-color:var(--cor-secundaria); 
-color: white; 
-text-align: center; 
-font-family: sans-serif;
-}
